@@ -64,7 +64,7 @@ Ignore messages like:
 "dpkg-preconfigure: unable to re-open stdin: No such file or directory"
 
 ## Configure PhpStorm 2016.2 
-Configure a remote php interpreter and remote web server (so the built in one is not used). 
+Configure a remote php interpreter and remote web server (so the built in one is not used).
 1. Start PhpStorm and make a project in the folder you created. Make sure Vagrant is still running the guest.
 2. Go to "File" -> "Settings" (can also be "PhpStorm -> "Preferences") in the menu. Go to "Languages & Frameworks" -> "PHP".
 3. Click on the three dots to the right of the `<no interpreter>` text (may say 'PHP 7' or similar if you have a local installation since before).
